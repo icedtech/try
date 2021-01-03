@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cheesy Maze</title>
+
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+
+<body>		
+	<form>
+		<div>
+			<label>Rows</label>
+			<select id="rows">
+				<option value="10" selected="selected">10</option>
+				<option value="15">15</option>
+				<option value="20">20</option>
+				<option value="25">25</option>
+			</select>
+		</div>
+		<div>
+			<label>Columns</label>
+			<select id="columns">
+				<option value="10" selected="selected">10</option>
+				<option value="15">15</option>
+				<option value="20">20</option>
+				<option value="25">25</option>
+			</select>
+		</div>
+		<button id="change" class="restart" type="button">Change</button>
+	</form>
+
+	<canvas></canvas>
+
+	<div class="preparing-grid">
+		<h1>Building Road to Cheese...</h1>
+	</div>
+	<div class="game-complete">
+		<h1>Aha! Got the Cheese!</h1>
+		<h2></h2>
+		<button id="restart" class="restart">Play Again</button>
+	</div>
+
+	<script type="module" src="./js/index.js"></script>
+</body>
+
+</html>

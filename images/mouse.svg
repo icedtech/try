@@ -1,0 +1,40 @@
+<svg id="Mouse" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg"
+		xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink"
+		xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg"
+		xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+		xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr"
+		version="1.1" xml:space="preserve" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" y="0px"
+		x="0px" width="60px" height="90px">
+		<ellipse rx="76.03" ry="67.999" stroke="#1B0C10" cy="229.24" cx="440.01" fill="#B5966D" />
+		<ellipse rx="76.03" ry="67.999" stroke="#1B0C10" cy="229.24" cx="187.56" fill="#B5966D" />
+		<ellipse rx="74.822" ry="26.25" stroke="#0F0C09" cy="541.25" cx="427.32" fill="#B5966D" />
+		<ellipse rx="74.822" ry="26.25" stroke="#110E09" cy="541.25" cx="186" fill="#B5966D" />
+		<ellipse rx="166.07" ry="147.32" stroke="#060304" cy="401.56" cx="317.59" fill="#B5966D" />
+		<ellipse cy="342.87" cx="367" rx="14.5" ry="25" />
+		<ellipse cy="336.37" cx="357" rx="4.5" ry="6.5" fill="#fff" />
+		<ellipse cy="342.87" cx="260" rx="14.5" ry="25" />
+		<ellipse cy="336.37" cx="250" rx="4.5" ry="6.5" fill="#fff" />
+		<ellipse cy="402.06" cx="317.93" rx="9.572" ry="10" fill="#ED1C24" />
+		<path d="m147 646" fill="#ED1C24" />
+		<line stroke-width="2" y2="373.08" y1="408.42" stroke="#000" x2="84.256" x1="235.32" fill="#070808" />
+		<line stroke-width="2" y2="442.94" y1="410.43" stroke="#000" x2="83.615" x1="235.32" fill="#070808" />
+		<line stroke-width="2" y2="409.03" y1="410.42" stroke="#000" x2="79.42" x1="234.56" fill="#070808" />
+		<line stroke-width="2" y2="441.99" y1="408.01" stroke="#000" x2="551.99" x1="400.61" fill="#070808" />
+		<line stroke-width="2" y2="372.13" y1="406" stroke="#000" x2="552" x1="400.6" fill="#070808" />
+		<line stroke-width="2" y2="406" y1="406" stroke="#000" x2="556.5" x1="401.36" fill="#070808" />
+		<path stroke="#000" stroke-width="2"
+			d="m366.68 443.92c0 21.815-20.818 49.195-46.5 49.195-25.681 0-51-26.185-51-48s25.319 8.5 51 8.5c25.68 0 46.5-31.51 46.5-9.7z"
+			fill="#9B1C1F" />
+		<path
+			d="m346 479.83c0 4.637-11.869 11.833-27.333 11.833s-30.17-10.52-30.17-15.16c0-4.636 12.786-4.834 28.25-4.834s29.25 3.53 29.25 8.16z"
+			fill="#DE5861" />
+		<polygon points="340 478.92 320 478.92 320.43 454.58 340 450.43" fill="#FFFAFA" />
+		<polygon points="314.33 478.92 294.33 478.92 294.33 448 315.67 455" fill="#FFFAFA" />
+		<path stroke="#000" d="m551.99 251" fill="#B5966D" />
+		<path stroke="#000" stroke-width="3"
+			d="m450.1 489.74c82.161-28.087 65.907-2.418 82.161-28.087 34.145-53.927 3.2-40.445 34.145-53.927 30.943-13.482-19.207 5.617 30.943-13.482"
+			fill="none" />
+		<path stroke="#000" stroke-width="3" d="m186 448.14c11.93 17.249 48.514 2.029 11.93 17.249" fill="none" />
+		<path stroke="#000" stroke-width="3" d="m452.7 442.94c-8.948 18.465-46.63 1.396-8.948 18.465" fill="none" />
+		<path stroke="#000" stroke-width="3" d="m404 780" fill="none" />
+	</svg>
